@@ -1,6 +1,3 @@
-# Jenkins Assignment - CC lab 08
-
-Welcome to your jenkins assignment! This simple exercise is designed to introduce you to Jenkins and continuous integration.
 
 ## Introduction to Jenkins
 
