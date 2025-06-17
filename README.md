@@ -13,7 +13,7 @@ Jenkins is an open-source, Java-based automation tool. This tool automates the s
 
 ## Prerequisites
 
-- **Docker**: Installed on your system. (Setup and Installation should have been covered in your previous lab ).
+- **Docker**: Installed on your system. (Setup and Installation).
 - **Git**: Installed on your system and a GitHub account. Follow this [tutorial](https://www.youtube.com/watch?v=2j7fD92g-gE) to install and familiarize yourself with Git.
 
-Create a GitHub repository with the name as `YOUR_SRN_Jenkins`.
+
